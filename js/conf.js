@@ -17,7 +17,7 @@ var conf = {
   countdownTextSize: 64,
 
   tolerance: 40,
-  goal: 120,
+  goal: 5,
   breathSec: {
     inhale: 4,
     exhale: 6,
